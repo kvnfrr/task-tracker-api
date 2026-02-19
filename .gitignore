@@ -1,6 +1,19 @@
 # Compiled class file
 *.class
 
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# OS
+Thumbs.db
+
 # Log file
 *.log
 
